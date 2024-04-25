@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Udith Sandaruwan</h1>
 <h3 align="center">A passionate backend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=udithsandaruwan2&label=Profile%20views&color=0e75b6&style=flat" alt="udithsandaruwan2" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=udithsandaruwan2&label=Profile%20views&color=0e75b6&style=flat" alt="udithsandaruwan2" /> </p>
 
 - 🔭 I’m currently working on [sample](udithsandaruwan.xyz)
 
