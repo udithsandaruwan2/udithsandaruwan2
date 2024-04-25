@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="20860697" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hydra-we-bhack-gif-20860697">Hydra We Bhack Sticker</a>from <a href="https://tenor.com/search/hydra+we+bhack-stickers">Hydra We Bhack Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center" ><img src="hydra-we-bhack.gif" alt="Hydra Animated GIF" style="width: 150px; height: 150px;"></p>
 
 <h1 align="center">Hi 👋, I'm Udith Sandaruwan</h1>
 <h3 align="center">A passionate backend developer from Sri Lanka</h3>
