@@ -1,3 +1,5 @@
+<div class="tenor-gif-embed" data-postid="20860697" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hydra-we-bhack-gif-20860697">Hydra We Bhack Sticker</a>from <a href="https://tenor.com/search/hydra+we+bhack-stickers">Hydra We Bhack Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <h1 align="center">Hi 👋, I'm Udith Sandaruwan</h1>
 <h3 align="center">A passionate backend developer from Sri Lanka</h3>
 
@@ -34,4 +36,27 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/udithsandaruwan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="udithsandaruwan" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=udithsandaruwan2&show_icons=true&locale=en&layout=compact" alt="udithsandaruwan2" /></p>
+
+
+---
+
+<p align="center">
+  <a href="https://github.com/udithsandaruwan2">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=udithsandaruwan2&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/udithsandaruwan2">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udithsandaruwan2&theme=radical" alt="Udith Sandaruwan's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/udithsandaruwan2"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=udithsandaruwan2&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alsiam"><img alt="Udith Sandaruwan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=udithsandaruwan2&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+
+![Udith Sandaruwan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=udithsandaruwan2&custom_title=Udith%20Sandaruwan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
