@@ -5,19 +5,19 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=udithsandaruwan2&label=Profile%20views&color=0e75b6&style=flat" alt="udithsandaruwan2" /> </p>
 
-- 🔭 I’m currently working on [sample](udithsandaruwan.xyz)
+- 🔭 I’m currently working on [sample](EVENT_ARC)
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [https://udithsandaruwan.com/](https://udithsandaruwan.com/)
+- 👨‍💻 All of my projects are available at [https://udithsandaruwan.com/](https://github.com/udithsandaruwan2)
 
-- 📝 I regularly write articles on [https://udithsandaruwan.com/blog](https://udithsandaruwan.com/blog)
+- 📝 I regularly write articles on [https://udithsandaruwan.com/blog](https://udithsandaruwan.xyz/blog)
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **info.developer.udithsk@gmail.com**
 
-- 📄 Know about my experiences [https://udithsandaruwan.com/experience](https://udithsandaruwan.com/experience)
+- 📄 Know about my experiences [https://udithsandaruwan.com/experience](https://udithsandaruwan.xyz)
 
 - ⚡ Fun fact **Call me as sanu**
 
