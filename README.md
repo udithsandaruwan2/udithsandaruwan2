@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **info.developer.udithsk@gmail.com**
+- 📫 How to reach me **info.dev.udith@gmail.com**
 
 - 📄 Know about my experiences [https://udithsandaruwan.xyz](https://udithsandaruwan.xyz)
 
