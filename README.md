@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=udithsandaruwan2&label=Profile%20views&color=0e75b6&style=flat" alt="udithsandaruwan2" /> </p>
 
-- 🔭 I’m currently working on [https://github.com/udithsandaruwan2/eventarc](eventarc)
+- 🔭 I’m currently working on [EVENTARC](https://github.com/udithsandaruwan2/eventarc)
 
 - 🌱 I’m currently learning **Django**
 
