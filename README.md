@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/udithsandaruwan2](https://github.com/udithsandaruwan2)
 
-- 📝 I regularly write articles on [https://udithsandaruwan.xyz/blog](https://udithsandaruwan.xyz/blog)
+- 📝 I regularly write articles on [https://medium.com/@udithsandaruwan](https://medium.com/@udithsandaruwan)
 
 - 💬 Ask me about **Python**
 
